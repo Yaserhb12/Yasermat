@@ -1,0 +1,24 @@
+.highlight { 
+    background-color: yellow; 
+            }
+    
+    .underline { 
+    text-decoration: underline;
+             }
+    
+    .bold { 
+    font-weight: bold;
+             }
+    
+    
+    .hidden {
+     display: none;
+                 }
+    
+    .visible { 
+    display: block;
+             }
+    
+    .unclickable {
+    pointer-events: none;
+    }
